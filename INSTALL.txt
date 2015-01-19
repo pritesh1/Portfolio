@@ -1,0 +1,7 @@
+Instructions to install:
+
+for the entire PHP folder
+
+1.)go to http://www.000webhost.com/
+2.) sign up for an account
+3.) Upload files via FTP(Filezilla)
